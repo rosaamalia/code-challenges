@@ -9,7 +9,7 @@
   </head>
   <body>
     <form>
-      <select id="colorSelect">
+      <select id="languageSelect">
         <option>JavaScript</option>
         <option>Python</option>
         <option>Go</option>
