@@ -12,7 +12,7 @@
   
   <ul>
     <li>Nickname: <span id="nickname"></span>
-    <li>Age:  <span id="favorites"></span>
+    <li>Age:  <span id="age"></span>
     <li>Hometown: <span id="hometown"></span>
    </ul>
   
