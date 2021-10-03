@@ -16,21 +16,23 @@ class Network {
 The properties of the `Network` class are:
 
 `data`: Total units of data supplied by the network
+
 `users`: Total numbers of users currently on the network
 
-Each user on average deducts 5 units from the network’s total data. 
+- Each user on average deducts 5 units from the network’s total data. 
 
-To watch a movie you must connect to a network that has at least 50 remaining units of data.
+- To watch a movie you must connect to a network that has at least 50 remaining units of data.
 
-To using video call and conference you must connect to a network that has at least 10 remaining units of data
+- To using video call and conference you must connect to a network that has at least 10 remaining units of data
 
-For the connection, system will disconnect every 60 minutes and pop up `alert` to the user
+- For the connection, system will console string `"You must reconnect the Internet Connection"` every 2 minutes 
 
+This is a summary of what you will do:
 - Add a method `movieTime()` to the `Network` class that returns `true` if there is enough data available to watch a movie, `false` if there isn’t.
 
 - Add a method `videoCall()` to the `Network` class that returns `true` if there is enough data available to using video call and conference, `false` if there isn’t.
 
--  Add method `disconnect()` to the `Network` class that will show string `"You must reconnect the Internet Connection"` using `alert` every 2 minutes of the connection for the simulation (in the real case usually 60 - 120 minutes)
+-  Add method `connection()` to the `Network` class that will show string `"You must reconnect the Internet Connection"` using `console.log` every 2 minutes of the connection for the simulation (in the real case usually 60 - 120 minutes)
 
 ## Expected Result
 ```js
