@@ -39,6 +39,7 @@ This is a summary of what you will do:
 const library = new Network(50, 8) 
 
 library.movieTime() // returns false
-library.videoCall() // returns true and show alert from `disconnect()` method after 2 minutes
+library.videoCall() // returns true
+library.connection(); // Run the interval
 ```
 
