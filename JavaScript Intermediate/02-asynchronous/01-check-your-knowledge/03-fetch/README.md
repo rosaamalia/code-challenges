@@ -1,5 +1,6 @@
 ### Soal 1
 Which of the following is NOT used to create a request using `fetch()` and explain why?
+
 A. `.this()`
 
 B. `.then()`
@@ -13,6 +14,7 @@ Jawab di bawah ini
 
 ### Soal 2
 A Promise is a(n)
+
 A. object
 
 B. method

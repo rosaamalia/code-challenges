@@ -51,6 +51,7 @@ Jawab di bawah ini
 
 ### Soal 6
 Which of the following is **NOT** a benefit of the `async...await` syntax?
+
 A. It reads more similarly to synchronous code.
 
 B. It lets us easily store and refer back to the resolved values of earlier promises in a promise chain.
