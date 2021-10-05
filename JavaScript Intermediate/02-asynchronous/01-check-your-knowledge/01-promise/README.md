@@ -71,8 +71,11 @@ Jawab di bawah ini
 ### Soal 6
 Which one of the following is NOT a state that a Promise resolves to?
 A. Pending
+
 B. Undefined
+
 C. Fulfilled
+
 D. Rejected
 ### Jawaban 6
 Jawab di bawah ini ...
