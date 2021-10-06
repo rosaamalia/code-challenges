@@ -1,4 +1,4 @@
-### Soal 1
+## Soal 1
 Which of the following is NOT used to create a request using `fetch()` and explain why?
 
 A. `.this()`
@@ -9,10 +9,9 @@ C. `.json()`
 
 D. `JSON.stringify()`
 ### Jawaban 1
-Jawab di bawah ini
-...
+A. `.this()`
 
-### Soal 2
+## Soal 2
 A Promise is a(n)
 
 A. object
@@ -23,10 +22,10 @@ C. state
 
 D. function
 ### Jawaban 2
-Jawab di bawah ini
-...
+A. object <br>
+The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
 
-### Soal 3
+## Soal 3
 What is wrong with the following code?
 ```js
 async function getData() {
@@ -47,7 +46,7 @@ async function getData() {
 Jawab di bawah ini
 ...
 
-### Soal 4
+## Soal 4
 What is wrong with the following code?
 ```js
 async function getData() {
